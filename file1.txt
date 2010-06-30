@@ -1,6 +1,10 @@
 Eintrag 1
 
+
+git commit -a
+
 git clone <repository-path> [<target-dir>]
+
 
 Exchanging patches¶
 Creating a patch¶
