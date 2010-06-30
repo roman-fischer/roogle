@@ -41,3 +41,8 @@ In case of a conflict, we can roll back the changes, e.g.:
 git am --abort
 
 See also the git am --interactive option.
+
+
+
+
+http://www.kernel.org/pub/software/scm/git/docs/v1.2.6/git-format-patch.html
