@@ -46,3 +46,8 @@ See also the git am --interactive option.
 
 
 http://www.kernel.org/pub/software/scm/git/docs/v1.2.6/git-format-patch.html
+
+
+
+github ausprobiert:
+C:\Dokumente und Einstellungen\roman\Eigene Dateien\GIT.txt
